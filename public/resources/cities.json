@@ -1,0 +1,260 @@
+{
+    "MienBac": [
+        {
+            "Ten": "Hưng Yên",
+            "MaMien": "Đồng Bằng Sông Hồng"
+        },
+        {
+            "Ten": "Hà Nội",
+            "MaMien": "Đồng Bằng Sông Hồng"
+        },
+        {
+            "Ten": "Nam Định",
+            "MaMien": "Đồng Bằng Sông Hồng"
+        },
+        {
+            "Ten": "Quảng Ninh",
+            "MaMien": "Đông Bắc Bộ"
+        },
+        {
+            "Ten": "Hải Dương",
+            "MaMien": "Đồng Bằng Sông Hồng"
+        },
+        {
+            "Ten": "Bắc Ninh",
+            "MaMien": "Đồng Bằng Sông Hồng"
+        },
+        {
+            "Ten": "Thái Nguyên",
+            "MaMien": "Đông Bắc Bộ"
+        },
+        {
+            "Ten": "Thái Bình",
+            "MaMien": "Đồng Bằng Sông Hồng"
+        },
+        {
+            "Ten": "Lào Cai",
+            "MaMien": "Tây Bắc Bộ"
+        },
+        {
+            "Ten": "Hải Phòng",
+            "MaMien": "Đồng Bằng Sông Hồng"
+        },
+        {
+            "Ten": "Phú Thọ",
+            "MaMien": "Đông Bắc Bộ"
+        },
+        {
+            "Ten": "Hòa Bình",
+            "MaMien": "Tây Bắc Bộ"
+        },
+        {
+            "Ten": "Tuyên Quang",
+            "MaMien": "Đông Bắc Bộ"
+        },
+        {
+            "Ten": "Lai Châu",
+            "MaMien": "Tây Bắc Bộ"
+        },
+        {
+            "Ten": "Lạng Sơn",
+            "MaMien": "Đông Bắc Bộ"
+        },
+        {
+            "Ten": "Hà Nam",
+            "MaMien": "Đồng Bằng Sông Hồng"
+        },
+        {
+            "Ten": "Bắc Kạn",
+            "MaMien": "Đông Bắc Bộ"
+        },
+        {
+            "Ten": "Cao Bằng",
+            "MaMien": "Đông Bắc Bộ"
+        },
+        {
+            "Ten": "Sơn La",
+            "MaMien": "Tây Bắc Bộ"
+        },
+        {
+            "Ten": "Bắc Giang",
+            "MaMien": "Đông Bắc Bộ"
+        },
+        {
+            "Ten": "Ninh Bình",
+            "MaMien": "Đồng Bằng Sông Hồng"
+        },
+        {
+            "Ten": "Vĩnh Phúc",
+            "MaMien": "Đồng Bằng Sông Hồng"
+        },
+        {
+            "Ten": "Yên Bái",
+            "MaMien": "Tây Bắc Bộ"
+        },
+        {
+            "Ten": "Điện Biên",
+            "MaMien": "Tây Bắc Bộ"
+        },
+        {
+            "Ten": "Hà Giang",
+            "MaMien": "Đông Bắc Bộ"
+        }
+    ],
+    "MienTrung": [
+        {
+            "Ten": "Đắk Lắk",
+            "MaMien": "Tây Nguyên"
+        },
+        {
+            "Ten": "Đắk Nông",
+            "MaMien": "Tây Nguyên"
+        },
+        {
+            "Ten": "Đà Nẵng",
+            "MaMien": "Duyên Hải Nam Trung Bộ"
+        },
+        {
+            "Ten": "Thanh Hoá",
+            "MaMien": "Bắc Trung Bộ"
+        },
+        {
+            "Ten": "Nghệ An",
+            "MaMien": "Bắc Trung Bộ"
+        },
+        {
+            "Ten": "Huế",
+            "MaMien": "Bắc Trung Bộ"
+        },
+        {
+            "Ten": "Quảng Nam",
+            "MaMien": "Duyên Hải Nam Trung Bộ"
+        },
+        {
+            "Ten": "Quảng Ngãi",
+            "MaMien": "Duyên Hải Nam Trung Bộ"
+        },
+        {
+            "Ten": "Ninh Thuận",
+            "MaMien": "Duyên Hải Nam Trung Bộ"
+        },
+        {
+            "Ten": "Khánh Hòa",
+            "MaMien": "Duyên Hải Nam Trung Bộ"
+        },
+        {
+            "Ten": "Phú Yên",
+            "MaMien": "Duyên Hải Nam Trung Bộ"
+        },
+        {
+            "Ten": "Lâm Đồng",
+            "MaMien": "Tây Nguyên"
+        },
+        {
+            "Ten": "Bình Định",
+            "MaMien": "Duyên Hải Nam Trung Bộ"
+        },
+        {
+            "Ten": "Quảng Bình",
+            "MaMien": "Bắc Trung Bộ"
+        },
+        {
+            "Ten": "Quảng Trị",
+            "MaMien": "Bắc Trung Bộ"
+        },
+        {
+            "Ten": "Gia Lai",
+            "MaMien": "Tây Nguyên"
+        },
+        {
+            "Ten": "Hà Tĩnh",
+            "MaMien": "Bắc Trung Bộ"
+        },
+        {
+            "Ten": "Bình Thuận",
+            "MaMien": "Duyên Hải Nam Trung Bộ"
+        },
+        {
+            "Ten": "Kon Tum",
+            "MaMien": "Tây Nguyên"
+        }
+    ],
+    "MienNam": [
+        {
+            "Ten": "Tiền Giang",
+            "MaMien": "Tây Nam Bộ"
+        },
+        {
+            "Ten": "TP Hồ Chí Minh",
+            "MaMien": "Đông Nam Bộ"
+        },
+        {
+            "Ten": "Cà Mau",
+            "MaMien": "Tây Nam Bộ"
+        },
+        {
+            "Ten": "Long An",
+            "MaMien": "Tây Nam Bộ"
+        },
+        {
+            "Ten": "Bến Tre",
+            "MaMien": "Tây Nam Bộ"
+        },
+        {
+            "Ten": "Đồng Tháp",
+            "MaMien": "Tây Nam Bộ"
+        },
+        {
+            "Ten": "Vĩnh Long",
+            "MaMien": "Tây Nam Bộ"
+        },
+        {
+            "Ten": "Kiên Giang",
+            "MaMien": "Tây Nam Bộ"
+        },
+        {
+            "Ten": "Trà Vinh",
+            "MaMien": "Tây Nam Bộ"
+        },
+        {
+            "Ten": "Sóc Trăng",
+            "MaMien": "Tây Nam Bộ"
+        },
+        {
+            "Ten": "Vũng Tàu",
+            "MaMien": "Đông Nam Bộ"
+        },
+        {
+            "Ten": "Đồng Nai",
+            "MaMien": "Đông Nam Bộ"
+        },
+        {
+            "Ten": "Bình Dương",
+            "MaMien": "Đông Nam Bộ"
+        },
+        {
+            "Ten": "Cần Thơ",
+            "MaMien": "Tây Nam Bộ"
+        },
+        {
+            "Ten": "Bình Phước",
+            "MaMien": "Đông Nam Bộ"
+        },
+        {
+            "Ten": "An Giang",
+            "MaMien": "Tây Nam Bộ"
+        },
+        {
+            "Ten": "Tây Ninh",
+            "MaMien": "Đông Nam Bộ"
+        },
+        {
+            "Ten": "Hậu Giang",
+            "MaMien": "Tây Nam Bộ"
+        },
+        {
+            "Ten": "Bạc Liêu",
+            "MaMien": "Tây Nam Bộ"
+        }
+    ]
+}
