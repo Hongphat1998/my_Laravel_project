@@ -16,8 +16,8 @@ class TinTuyenDungSeeder extends Seeder
         DB::table('tintuyendung')->truncate();
   
         // Auto tạo seed
-        define('COUNT', 2000);
-        $kinang_list = json_decode(file_get_contents(public_path().'\resources\skills.json'));        
+        define('COUNT', 20);
+        $kinang_list = json_decode(file_get_contents(public_path().'/resources/skills.json'));        
         $nganh_list = json_decode(file_get_contents(public_path().'/resources/jobs.json'));
         $khuvuc_list = json_decode(file_get_contents(public_path().'/resources/cities.json'));
         $kinhnghiem_list = json_decode(file_get_contents(public_path().'/resources/exps.json'));

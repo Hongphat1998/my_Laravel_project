@@ -31,7 +31,7 @@ class HoSoXinViecSeeder extends Seeder
         $ngoaingu_list = json_decode(file_get_contents(public_path().'/resources/languages.json'));
         $tinhoc_list = json_decode(file_get_contents(public_path().'/resources/itechs.json'));
 
-        $count = 2000;
+        $count = 50;
 
         for ($i=0; $i < $count; $i++) {
          	$name = Arr::random($name_list).' '.Arr::random($name_list); 
