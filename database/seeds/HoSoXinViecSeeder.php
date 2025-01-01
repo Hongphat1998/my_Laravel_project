@@ -21,7 +21,7 @@ class HoSoXinViecSeeder extends Seeder
         $name_list = array('Phát','Thiện','Tân','Thành','Tiến','Luân','Lương','Lộc','Tuấn','Hoà','Hưng','An','Anh','Khương');
         $sotruong_list = array('Kiên trì','Ca hát','Hài hước','Vui tính','Hoà đồng','Cá tính','Chăm chỉ','Thận trọng','Tạo không khí, cảm xúc cho mọi người xung quanh');
         $muctieu_list = array('Có 1 công việc ổn định','Trở thành nhân viên xuất sắc','Tích luỹ thêm kinh nghiệm','rèn luyện kĩ năng xử lý công việc','Nỗ lực, cố gắng và mong muốn có được vị trí cấp cao','Nhanh chóng thích nghi và làm tốt tất cả các yêu cầu được công ty đề cập trong bản mô tả công việc','Tôi muốn cung cấp nhiều giá trị, đóng góp hơn những gì tôi mong đợi','Nâng cao trình độ, đóng góp nhiều hơn vào sự phát triển của công ty, sau đó đủ khả năng nhận các trách nhiệm lớn hơn','Tôi hiểu rằng quá trình này có thể khó khăn và tốn thời gian, nhưng tôi luôn sẵn sàng và kiên định','Những mục tiêu này sẽ luôn thúc đẩy tôi đạt được tầm cao mới, giữ vững định hướng của mình'); 
-        $kinang_list = json_decode(file_get_contents(public_path().'\resources\skills.json'));        
+        $kinang_list = json_decode(file_get_contents(public_path().'/resources/skills.json'));        
         $nganh_list = json_decode(file_get_contents(public_path().'/resources/jobs.json'));
         $region_list = json_decode(file_get_contents(public_path().'/resources/cities.json'));
         $kinhnghiem_list = json_decode(file_get_contents(public_path().'/resources/exps.json'));
