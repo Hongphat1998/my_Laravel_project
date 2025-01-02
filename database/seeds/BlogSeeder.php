@@ -17,7 +17,7 @@ class BlogSeeder extends Seeder
         Schema::disableForeignKeyConstraints();
         DB::table('blog')->truncate();
 
-        $count = 20;
+        $count = 2000;
 
         $tieude_list = array(
         	'7 cách đánh giá để đưa ra lựa chọn giữa 2 công việc',

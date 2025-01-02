@@ -39,10 +39,10 @@ class EmailVerificationServiceProvider extends ServiceProvider
         /*
          * Migrations
          */
-        // $this->loadMigrationsFrom(__DIR__ . '/../../database/migrations');
-        // $this->publishes([
-        //     __DIR__ . '/../../database/migrations' => database_path('migrations')
-        // ], 'migrations');
+        $this->loadMigrationsFrom(__DIR__ . '/../../database/migrations');
+        $this->publishes([
+            __DIR__ . '/../../database/migrations' => database_path('migrations')
+        ], 'migrations');
 
 
         /*

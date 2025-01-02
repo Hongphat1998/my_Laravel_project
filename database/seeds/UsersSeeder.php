@@ -44,7 +44,7 @@ class UsersSeeder extends Seeder
 
         $name_list = array('Phát','Thiện','Tân','Thành','Tiến','Luân','Lương','Lộc','Tuấn','Hoà','Hưng','An','Anh','Khương','Thịnh','Thuận','Nhật','Đông','Hiếu','Khang','Khánh');
         // Random thêm NTV
-        $count = 50;
+        $count = 5000;
         for ($i = 0 ; $i < $count ; $i++) {
             $name = Arr::random($name_list).' '.Arr::random($name_list); 
             $email = str_slug($name).'_'.Str::random(5).'@gmail.com';

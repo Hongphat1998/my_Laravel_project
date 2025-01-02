@@ -16,7 +16,7 @@ class CommentSeeder extends Seeder
         Schema::disableForeignKeyConstraints();
         DB::table('comment')->truncate();
 
-        $count = 100;
+        $count = 10000;
 
 
         for ($i=0; $i < $count ; $i++) { 
